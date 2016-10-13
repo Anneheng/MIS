@@ -8,3 +8,10 @@ select baoyang.BID,baoyang.EID,xm.xmName,QK,Material,Num,baoyang.Woker
 FROM baoyang,expend,xm,equipment 
 WHERE baoyang.EID=1 and baoyang.EID=expend.EID AND baoyang.BID=expend.BID and equipment.CID=xm.CID;
 ####![image](https://github.com/Anneheng/MIS/blob/master/a2.PNG)
+##ER图
+####![image](https://github.com/Anneheng/MIS/blob/master/ER图.PNG)
+##原型截图
+####![image](https://github.com/Anneheng/MIS/blob/master/1.PNG)
+####![image](https://github.com/Anneheng/MIS/blob/master/2.PNG)
+####![image](https://github.com/Anneheng/MIS/blob/master/3.PNG)
+####![image](https://github.com/Anneheng/MIS/blob/master/4.PNG)
