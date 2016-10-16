@@ -11,7 +11,9 @@ WHERE baoyang.EID=1 and baoyang.EID=expend.EID AND baoyang.BID=expend.BID and eq
 ##ER图
 ####![image](https://github.com/Anneheng/MIS/blob/master/ER图.PNG)
 ##原型截图
+###根据调用数据库，最后检查时间、t设备周期、提前期，自动预警该检修的设备。
 ####![image](https://github.com/Anneheng/MIS/blob/master/1.PNG)
+###根据输入的设备号，显示设备的相关信息，要检查的项目。
 ####![image](https://github.com/Anneheng/MIS/blob/master/2.PNG)
 ####![image](https://github.com/Anneheng/MIS/blob/master/3.PNG)
 ####![image](https://github.com/Anneheng/MIS/blob/master/4.PNG)
